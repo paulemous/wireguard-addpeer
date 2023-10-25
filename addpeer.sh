@@ -20,7 +20,7 @@ DNS = 1.1.1.1
 [Peer]
 PublicKey = $(cat server-publickey)
 AllowedIPs = 0.0.0.0/0
-Endpoint = rif.3cx.ae:51820
+Endpoint = end.point.xx:51820
 EOF
 
 # Add the new peer to wg0.conf
